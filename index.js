@@ -1,6 +1,6 @@
-function isNft(string){
-    return string === "NFT"
-
+function isNft(string) {
+    return string.toLowerCase() === "nft";
 }
 
-module.exports = isNft
+module.exports = isNft;
+
