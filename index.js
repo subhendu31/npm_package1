@@ -1,6 +1,6 @@
-function isWds(string){
-    return string === "WDS"
+function isNft(string){
+    return string === "NFT"
 
 }
 
-module.exports = isWds
+module.exports = isNft
